@@ -8,6 +8,17 @@ This application entails a fully functioning Google Books API search engine buil
  
 2.  [Installation](#Installation)
 
+- Mongoose
+- Express
+- React (-dom/router-dom/-scripts)
+- Node.js
+- Apollo-Server
+- Apollo-Server-Express
+- GraphQL
+- Bootstrap
+- JWT
+- Heroku
+
 3.  [License Information](#License-Information)
 
 4.  [Heroku Application Link](#Heroku-Application-Link)
